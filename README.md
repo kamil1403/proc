@@ -2,7 +2,7 @@
   <img src="https://github.com/kamil1403/proc/blob/main/screenshots/shutterstock_2200597295-1.jpg" alt="Banner" width="65%">
 </p>
 
-## ![Lesson](https://img.shields.io/badge/Lesson-otus__bash-0A84FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827)![Author](https://img.shields.io/badge/Author-Kamil%20Ibragimov-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)![Date](https://img.shields.io/badge/Date-27.10.2025-F59E0B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=111827)
+## ![Lesson](https://img.shields.io/badge/Lesson-otus__proc-0A84FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827)![Author](https://img.shields.io/badge/Author-Kamil%20Ibragimov-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)![Date](https://img.shields.io/badge/Date-05.11.2025-F59E0B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=111827)
 
 ### 📌 Задание:   
 - [ ] Написать свою реализацию ps ax используя анализ /proc
